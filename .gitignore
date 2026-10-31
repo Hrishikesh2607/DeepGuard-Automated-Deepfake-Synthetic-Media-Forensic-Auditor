@@ -3,3 +3,4 @@ data/
 models/*.pth
 __pycache__/
 .env
+faceforensics_download_v4.py
